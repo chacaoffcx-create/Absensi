@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:'Outfit',sans-serif;
+    background:linear-gradient(135deg,#4facfe,#00c6ff);
+    min-height:100vh;
+    padding:30px;
+}
+
+h1{
+    text-align:center;
+    color:white;
+    margin-bottom:25px;
+    font-size:42px;
+    font-weight:700;
+}
+
+/* SEARCH */
+
+.search-box{
+    display:flex;
+    justify-content:center;
+    margin-bottom:30px;
+}
+
+#search{
+    width:350px;
+    padding:14px;
+    border:none;
+    border-radius:12px;
+    font-size:16px;
+    outline:none;
+    box-shadow:0 5px 15px rgba(0,0,0,.15);
+}
+
+/* JUDUL SEMESTER */
+
+.judul{
+    width:95%;
+    margin:20px auto 10px;
+    color:white;
+    font-size:28px;
+    font-weight:600;
+}
+
+.s1-title{
+    color:#dbeafe;
+}
+
+.s2-title{
+    color:#ede9fe;
+}
+
+/* TABEL */
+
+table{
+    width:95%;
+    margin:auto;
+    margin-bottom:40px;
+    border-collapse:collapse;
+    background:white;
+    border-radius:20px;
+    overflow:hidden;
+    box-shadow:0 10px 25px rgba(0,0,0,.15);
+}
+
+thead{
+    color:white;
+}
+
+.s1-head{
+    background:#2563eb;
+}
+
+.s2-head{
+    background:#7c3aed;
+}
+
+th{
+    padding:15px;
+    font-size:16px;
+}
+
+td{
+    padding:14px;
+    text-align:center;
+    border-bottom:1px solid #eee;
+    color:#1f2937;
+}
+
+/* KOLOM NAMA */
+
+th:first-child,
+td:first-child{
+    width:350px;
+    text-align:center;
+    padding-left:20px;
+    font-weight:500;
+}
+
+/* HOVER */
+
+tr:hover{
+    background:#f8fafc;
+}
+
+/* TOMBOL */
+
+.aksi{
+    display:flex;
+    justify-content:center;
+    gap:5px;
+    flex-wrap:wrap;
+}
+
+button{
+    width:50px;
+    height:35px;
+    border:none;
+    border-radius:8px;
+    color:white;
+    cursor:pointer;
+    font-weight:600;
+    transition:.2s;
+}
+
+button:hover{
+    transform:scale(1.08);
+}
+
+/* SAKIT */
+
+button:nth-child(1),
+button:nth-child(2){
+    background:#f59e0b;
+}
+
+/* IZIN */
+
+button:nth-child(3),
+button:nth-child(4){
+    background:#10b981;
+}
+
+/* ALPHA */
+
+button:nth-child(5),
+button:nth-child(6){
+    background:#ef4444;
+}
+
+/* WARNA ABSENSI */
+
+.aman{
+    background:#dcfce7 !important;
+}
+
+.warning{
+    background:#fed7aa !important;
+}
+
+.bahaya{
+    background:#fecaca !important;
+}
+
+/* MOBILE */
+
+@media(max-width:768px){
+
+    body{
+        padding:10px;
+    }
+
+    h1{
+        font-size:28px;
+    }
+
+    table{
+        display:block;
+        overflow-x:auto;
+    }
+
+    #search{
+        width:100%;
+    }
+
+    th:first-child,
+    td:first-child{
+        min-width:250px;
+    }
+}

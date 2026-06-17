@@ -1,0 +1,470 @@
+[
+  {
+    "nama": "AJDA NAILLA SYAFIQAH",
+    "semester1": {
+      "sakit": 1,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "ALIYAH SALSABILA",
+    "semester1": {
+      "sakit": 2,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "APPU PAH SYA'BANYAH",
+    "semester1": {
+      "sakit": 4,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "AQUILA MAULIDA RISMA",
+    "semester1": {
+      "sakit": 2,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "ARKAN NAUFAL PUTU H.",
+    "semester1": {
+      "sakit": 1,
+      "izin": 2,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "ATHALLAH MALIK PRAYITNO",
+    "semester1": {
+      "sakit": 1,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "AUFA ATTHALLAH NUR M. I. L",
+    "semester1": {
+      "sakit": 2,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "AURELL MARYCE INARKOMBU",
+    "semester1": {
+      "sakit": 7,
+      "izin": 0,
+      "alpha": 1
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "AURORA EKA MARPAUNG",
+    "semester1": {
+      "sakit": 4,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "BRIAN RALPHAEL TUMIWA",
+    "semester1": {
+      "sakit": 4,
+      "izin": 1,
+      "alpha": 1
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "DESTA DWI NATTA",
+    "semester1": {
+      "sakit": 2,
+      "izin": 5,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "DIAN SAFITRI",
+    "semester1": {
+      "sakit": 2,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "ERIKA FITRIA",
+    "semester1": {
+      "sakit": 1,
+      "izin": 2,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "FARAH AULIA",
+    "semester1": {
+      "sakit": 2,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "FIFI AULIA",
+    "semester1": {
+      "sakit": 1,
+      "izin": 2,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "GILANG FARREL R. S",
+    "semester1": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "HUSEIN SYAHPUTRA",
+    "semester1": {
+      "sakit": 5,
+      "izin": 2,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "IBRAHIM FIRDAUS",
+    "semester1": {
+      "sakit": 6,
+      "izin": 1,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "KHANIZA IPAK QUINNYTA",
+    "semester1": {
+      "sakit": 0,
+      "izin": 1,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "MILANI JANEETA AZALIA",
+    "semester1": {
+      "sakit": 2,
+      "izin": 1,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "M. CHAIRUL ICHSAN",
+    "semester1": {
+      "sakit": 0,
+      "izin": 1,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "M. HAZAMI IDRIS",
+    "semester1": {
+      "sakit": 2,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "M. RAIHAN MAULIDDAN B.",
+    "semester1": {
+      "sakit": 3,
+      "izin": 1,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "M. ZOVANKA FADHILA",
+    "semester1": {
+      "sakit": 9,
+      "izin": 10,
+      "alpha": 3
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "NURAINI HANNY AZZAHRA",
+    "semester1": {
+      "sakit": 5,
+      "izin": 0,
+      "alpha": 1
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "PUTRA PRATAMA",
+    "semester1": {
+      "sakit": 7,
+      "izin": 2,
+      "alpha": 1
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "RIDHO TRI MAULANA",
+    "semester1": {
+      "sakit": 5,
+      "izin": 2,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "RIZKI RIDHO ARFANDI",
+    "semester1": {
+      "sakit": 3,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "SALMA UTAMI",
+    "semester1": {
+      "sakit": 1,
+      "izin": 1,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "SASKIYA SYAFRINA",
+    "semester1": {
+      "sakit": 0,
+      "izin": 1,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "SATRYA AUDIO SLAVE L.",
+    "semester1": {
+      "sakit": 4,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "SHALMA APRILIANI",
+    "semester1": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "SITI NUR AISYAH",
+    "semester1": {
+      "sakit": 2,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "SYALWA RIZKY HARYANTO",
+    "semester1": {
+      "sakit": 3,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "YULIA RAHMAWATI",
+    "semester1": {
+      "sakit": 1,
+      "izin": 0,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  },
+  {
+    "nama": "ZHAFRAN ZAKA LINGGA",
+    "semester1": {
+      "sakit": 1,
+      "izin": 1,
+      "alpha": 0
+    },
+    "semester2": {
+      "sakit": 0,
+      "izin": 0,
+      "alpha": 0
+    }
+  }
+]
